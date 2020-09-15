@@ -3,7 +3,7 @@ const articleService = require('../service/ArticleService');
 const userService = require('../service/UserService');
 
 const fetch = require('node-fetch');
-const fakeDataURL = 'https://my-json-server.typicode.com/LeandroOliveiraDeQueiroz/dartware-avalicao-tecnica/db';
+const fakeDataURL = 'https://my-json-server.typicode.com/LeandroOliveiraDeQueiroz/dartware-avalicao-tecnica-backend/db';
 
 function createRandomsArticles(req, res) {
 
