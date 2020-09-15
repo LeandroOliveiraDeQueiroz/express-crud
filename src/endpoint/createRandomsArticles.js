@@ -32,7 +32,7 @@ function createRandomsArticles(req, res) {
 function raffleUsers(users, raffleNumber){
     let raffleUsers = [];
     for(var i = 0; i < raffleNumber; i++){
-        raffleUsers.push(users[Math.round(Math.random() * 10)]);
+        raffleUsers.push(users[Math.round(Math.random() * 19)]);
     }
     return raffleUsers;
 }
