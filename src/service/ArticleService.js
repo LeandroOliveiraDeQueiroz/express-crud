@@ -1,4 +1,4 @@
-const Article = require('../model/article');
+const Article = require('../model/Article');
 
 class ArticleService {
 
