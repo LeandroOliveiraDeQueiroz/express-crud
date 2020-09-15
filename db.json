@@ -1,26 +1,224 @@
 {
 	"users": [{
-		"name": "Leandro Oliveira",
-		"email": "leandro@gmail.com",
-		"image_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fde%2Ff6%2F96%2Fdef69643889ee29e232637646e839064.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F377106168773722432%2F&tbnid=jLAqhEvGBCjo2M&vet=12ahUKEwiC_u3Bj-vrAhVR2OAKHTPyDYAQMygAegUIARCiAQ..i&docid=4LnT5_Ta0aIXJM&w=1440&h=1080&q=imagens&ved=2ahUKEwiC_u3Bj-vrAhVR2OAKHTPyDYAQMygAegUIARCiAQ",
+		"name": "Leandro",
+		"email": "Leandro@gmail.com",
+		"image_url": "https//Leandro",
 		"address": {
-			"city": "Belo Horizonte",
-			"street": "Rua Dom Joaquim"
+			"city": "Leandro City",
+			"street": "Leandro Street"
 		}
 	}, {
-		"name": "Lucas Oliveira",
-		"email": "lucas@gmail.com",
-		"image_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fde%2Ff6%2F96%2Fdef69643889ee29e232637646e839064.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F377106168773722432%2F&tbnid=jLAqhEvGBCjo2M&vet=12ahUKEwiC_u3Bj-vrAhVR2OAKHTPyDYAQMygAegUIARCiAQ..i&docid=4LnT5_Ta0aIXJM&w=1440&h=1080&q=imagens&ved=2ahUKEwiC_u3Bj-vrAhVR2OAKHTPyDYAQMygAegUIARCiAQ",
+		"name": "Lucas",
+		"email": "Lucas@gmail.com",
+		"image_url": "https//Lucas",
 		"address": {
-			"city": "Lisboa",
-			"street": "Rua Cais Sodré"
+			"city": "Lucas City",
+			"street": "Lucas Street"
+		}
+	}, {
+		"name": "Lucion",
+		"email": "Lucion@gmail.com",
+		"image_url": "https//Lucion",
+		"address": {
+			"city": "Lucion City",
+			"street": "Lucion Street"
+		}
+	}, {
+		"name": "Gabriel",
+		"email": "Gabriel@gmail.com",
+		"image_url": "https//Gabriel",
+		"address": {
+			"city": "Gabriel City",
+			"street": "Gabriel Street"
+		}
+	}, {
+		"name": "Bohn",
+		"email": "Bohn@gmail.com",
+		"image_url": "https//Bohn",
+		"address": {
+			"city": "Bohn City",
+			"street": "Bohn Street"
+		}
+	}, {
+		"name": "Ruben",
+		"email": "Ruben@gmail.com",
+		"image_url": "https//Ruben",
+		"address": {
+			"city": "Ruben City",
+			"street": "Ruben Street"
+		}
+	}, {
+		"name": "Arthur",
+		"email": "Arthur@gmail.com",
+		"image_url": "https//Arthur",
+		"address": {
+			"city": "Arthur City",
+			"street": "Arthur Street"
+		}
+	}, {
+		"name": "Sant",
+		"email": "Sant@gmail.com",
+		"image_url": "https//Sant",
+		"address": {
+			"city": "Sant City",
+			"street": "Sant Street"
+		}
+	}, {
+		"name": "Jairton",
+		"email": "Jairton@gmail.com",
+		"image_url": "https//Jairton",
+		"address": {
+			"city": "Jairton City",
+			"street": "Jairton Street"
+		}
+	}, {
+		"name": "Diana",
+		"email": "Diana@gmail.com",
+		"image_url": "https//Diana",
+		"address": {
+			"city": "Diana City",
+			"street": "Diana Street"
+		}
+	}, {
+		"name": "Jamal",
+		"email": "Jamal@gmail.com",
+		"image_url": "https//Jamal",
+		"address": {
+			"city": "Jamal City",
+			"street": "Jamal Street"
+		}
+	}, {
+		"name": "Cid",
+		"email": "Cid@gmail.com",
+		"image_url": "https//Cid",
+		"address": {
+			"city": "Cid City",
+			"street": "Cid Street"
+		}
+	}, {
+		"name": "Felipe",
+		"email": "Felipe@gmail.com",
+		"image_url": "https//Felipe",
+		"address": {
+			"city": "Felipe City",
+			"street": "Felipe Street"
+		}
+	}, {
+		"name": "Andressa",
+		"email": "Andressa@gmail.com",
+		"image_url": "https//Andressa",
+		"address": {
+			"city": "Andressa City",
+			"street": "Andressa Street"
+		}
+	}, {
+		"name": "Luiz",
+		"email": "Luiz@gmail.com",
+		"image_url": "https//Luiz",
+		"address": {
+			"city": "Luiz City",
+			"street": "Luiz Street"
+		}
+	}, {
+		"name": "Túlio",
+		"email": "Túlio@gmail.com",
+		"image_url": "https//Túlio",
+		"address": {
+			"city": "Túlio City",
+			"street": "Túlio Street"
+		}
+	}, {
+		"name": "Lorenna",
+		"email": "Lorenna@gmail.com",
+		"image_url": "https//Lorenna",
+		"address": {
+			"city": "Lorenna City",
+			"street": "Lorenna Street"
+		}
+	}, {
+		"name": "Thomaz",
+		"email": "Thomaz@gmail.com",
+		"image_url": "https//Thomaz",
+		"address": {
+			"city": "Thomaz City",
+			"street": "Thomaz Street"
+		}
+	}, {
+		"name": "Vitor",
+		"email": "Vitor@gmail.com",
+		"image_url": "https//Vitor",
+		"address": {
+			"city": "Vitor City",
+			"street": "Vitor Street"
+		}
+	}, {
+		"name": "Lucca",
+		"email": "Lucca@gmail.com",
+		"image_url": "https//Lucca",
+		"address": {
+			"city": "Lucca City",
+			"street": "Lucca Street"
 		}
 	}],
-	"arcticle": [{
-		"title": "ASDA",
-		"body": "tesaasadss"
+	"articles": [{
+		"title": "0 Article",
+		"body": "FAKE DATA TEXT. Writer: Leandro"
 	}, {
-		"title": "ASDA",
-		"body": "tesaasadss"
+		"title": "1 Article",
+		"body": "FAKE DATA TEXT. Writer: Lucas"
+	}, {
+		"title": "2 Article",
+		"body": "FAKE DATA TEXT. Writer: Lucion"
+	}, {
+		"title": "3 Article",
+		"body": "FAKE DATA TEXT. Writer: Gabriel"
+	}, {
+		"title": "4 Article",
+		"body": "FAKE DATA TEXT. Writer: Bohn"
+	}, {
+		"title": "5 Article",
+		"body": "FAKE DATA TEXT. Writer: Ruben"
+	}, {
+		"title": "6 Article",
+		"body": "FAKE DATA TEXT. Writer: Arthur"
+	}, {
+		"title": "7 Article",
+		"body": "FAKE DATA TEXT. Writer: Sant"
+	}, {
+		"title": "8 Article",
+		"body": "FAKE DATA TEXT. Writer: Jairton"
+	}, {
+		"title": "9 Article",
+		"body": "FAKE DATA TEXT. Writer: Diana"
+	}, {
+		"title": "10 Article",
+		"body": "FAKE DATA TEXT. Writer: Jamal"
+	}, {
+		"title": "11 Article",
+		"body": "FAKE DATA TEXT. Writer: Cid"
+	}, {
+		"title": "12 Article",
+		"body": "FAKE DATA TEXT. Writer: Felipe"
+	}, {
+		"title": "13 Article",
+		"body": "FAKE DATA TEXT. Writer: Andressa"
+	}, {
+		"title": "14 Article",
+		"body": "FAKE DATA TEXT. Writer: Luiz"
+	}, {
+		"title": "15 Article",
+		"body": "FAKE DATA TEXT. Writer: Túlio"
+	}, {
+		"title": "16 Article",
+		"body": "FAKE DATA TEXT. Writer: Lorenna"
+	}, {
+		"title": "17 Article",
+		"body": "FAKE DATA TEXT. Writer: Thomaz"
+	}, {
+		"title": "18 Article",
+		"body": "FAKE DATA TEXT. Writer: Vitor"
+	}, {
+		"title": "19 Article",
+		"body": "FAKE DATA TEXT. Writer: Lucca"
 	}]
 }
