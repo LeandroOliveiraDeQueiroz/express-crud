@@ -16,12 +16,12 @@
 			"street": "Lucas Street"
 		}
 	}, {
-		"name": "Lucion",
-		"email": "Lucion@gmail.com",
-		"image_url": "https//Lucion",
+		"name": "Lucio",
+		"email": "Lucio@gmail.com",
+		"image_url": "https//Lucio",
 		"address": {
-			"city": "Lucion City",
-			"street": "Lucion Street"
+			"city": "Lucio City",
+			"street": "Lucio Street"
 		}
 	}, {
 		"name": "Gabriel",
@@ -162,63 +162,63 @@
 	}],
 	"articles": [{
 		"title": "0 Article",
-		"body": "FAKE DATA TEXT. Writer: Leandro"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "1 Article",
-		"body": "FAKE DATA TEXT. Writer: Lucas"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "2 Article",
-		"body": "FAKE DATA TEXT. Writer: Lucion"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "3 Article",
-		"body": "FAKE DATA TEXT. Writer: Gabriel"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "4 Article",
-		"body": "FAKE DATA TEXT. Writer: Bohn"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "5 Article",
-		"body": "FAKE DATA TEXT. Writer: Ruben"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "6 Article",
-		"body": "FAKE DATA TEXT. Writer: Arthur"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "7 Article",
-		"body": "FAKE DATA TEXT. Writer: Sant"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "8 Article",
-		"body": "FAKE DATA TEXT. Writer: Jairton"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "9 Article",
-		"body": "FAKE DATA TEXT. Writer: Diana"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "10 Article",
-		"body": "FAKE DATA TEXT. Writer: Jamal"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "11 Article",
-		"body": "FAKE DATA TEXT. Writer: Cid"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "12 Article",
-		"body": "FAKE DATA TEXT. Writer: Felipe"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "13 Article",
-		"body": "FAKE DATA TEXT. Writer: Andressa"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "14 Article",
-		"body": "FAKE DATA TEXT. Writer: Luiz"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "15 Article",
-		"body": "FAKE DATA TEXT. Writer: Túlio"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "16 Article",
-		"body": "FAKE DATA TEXT. Writer: Lorenna"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "17 Article",
-		"body": "FAKE DATA TEXT. Writer: Thomaz"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "18 Article",
-		"body": "FAKE DATA TEXT. Writer: Vitor"
+		"body": "FAKE DATA TEXT."
 	}, {
 		"title": "19 Article",
-		"body": "FAKE DATA TEXT. Writer: Lucca"
+		"body": "FAKE DATA TEXT."
 	}]
 }
