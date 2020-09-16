@@ -40,6 +40,38 @@ class ArticleService {
       });
     });
   }
+
+  deleteAll(){
+    return new Promise((resolve, reject)=>{
+      Article.deleteMany().then((res)=>{
+        resolve(res);
+      }).catch((e)=>{
+        reject(e);
+      });
+    });
+  }
+
+  update(id, title, body){
+    return new Promise((resolve, reject)=>{
+      Article.findOne({_id: id}).then((article)=>{
+        article.title = title;
+        article.body = body;
+
+        article.save().then(() => {
+          resolve({
+            success: true,
+            id: article._id,
+            message: 'Article updated!',
+          });
+        }).catch((e) => {
+          reject({e, message: 'Article not updated!'});
+        });
+      }).catch((e)=>{
+        reject({e, message: 'Article not found!'});
+      });
+    });
+  }
+  
 }
 
 module.exports = new ArticleService();

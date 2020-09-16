@@ -2,16 +2,21 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const db = require('./src/db');
+const cors = require('cors');
 
 const createRandomsArticles = require('./src/endpoint/createRandomsArticles');
+const deleteAll = require('./src/endpoint/deleteAll.js');
+const updateArticle = require('./src/endpoint/updateArticle.js');
 
 app.use(bodyParser.urlencoded({ extended: true }));
 //TODO estudar esse cors
-// app.use(cors())
+app.use(cors());
 app.use(bodyParser.json());
 
 //TODO Talvez criar arquivo de rotas
 app.post('/articles/random', createRandomsArticles);
+app.delete('/articles/all', deleteAll);
+app.put('/article/:id', updateArticle);
 
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
