@@ -72,6 +72,9 @@ class ArticleService {
     });
   }
   
+  get(title){
+    return Article.findOne({title: title});
+  }
 }
 
 module.exports = new ArticleService();
