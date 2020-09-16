@@ -22,8 +22,8 @@ names.forEach((name, i)=>{
   });
 
   articles.push({
-		"title": i + " Article",
-		"body": "FAKE DATA TEXT."
+		"title": (i + 1) + " Article",
+		"body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur"
 	});
 });
 
