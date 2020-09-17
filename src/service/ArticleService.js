@@ -73,7 +73,7 @@ class ArticleService {
   }
   
   get(title){
-    return Article.findOne({title: title});
+    return Article.find({title: title});
   }
 }
 
