@@ -36,6 +36,16 @@ class UserService {
     });
   }
 
+  deleteAll(){
+    return new Promise((resolve, reject)=>{
+      User.deleteMany().then((res)=>{
+        resolve(res);
+      }).catch((e)=>{
+        reject(e);
+      });
+    });
+  }
+
 }
 
 module.exports = new UserService();
