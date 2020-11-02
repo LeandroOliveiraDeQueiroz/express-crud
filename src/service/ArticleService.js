@@ -73,7 +73,8 @@ class ArticleService {
   }
   
   get(title){
-    return Article.find({title: title});
+    const filter = title ? {title: title} : {};
+    return Article.find(filter);
   }
 }
 
