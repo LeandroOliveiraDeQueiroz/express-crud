@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start:dev": "SET NODE_ENV=dev && node --inspect ./app.js",
+    "start:dev": "set NODE_ENV=dev && node --inspect ./app.js",
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "repository": {
